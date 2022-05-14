@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "snappy-bucksaw-349409",
+  "private_key_id": "41f18f14e8927aecb06a2c3b7b2c7d7cc7201eb4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5d+sypffWsJK6\nW8yuPoScwc7qNBQLhC1vJOnPxG3kZ991c8chmq46gsuU1tqJEuupY5rJT5W/CJM5\nkiJ1SmrInHtT/3fonJuTBpW7xqobxi29uAdY+9+UwSw6o9q83iM5B7ORi0G1OJ1y\nbswa26Ulp4ee7YC7ZxLXziyNWYi3k/MAV7yxuqkQjRSarr5sOR1pDipoJ77Pt7Dw\ng1ej4xB1TbZog9Cyb2oH4KXtVf27e1b53GjXIMcfrbUS+S+aQaOQ6UNPIvRKtx8O\nAHsExbvu0muhMmxNn7qL7jTThnPx9RAFZ6BFAWeFhnl1M8MEJ3LbpDYTthVDaeyp\nInoykS0hAgMBAAECggEAH5L3um6gy67Ru+Im7T79aoZgCGUHSJKe/X3mRBWns6uv\nUhp8uw7PPGzJ5bPSDmXnMrYfQshGsPfvwGxNa3RYy4BASqOCMVp/7b7APPBsQ0Aw\nx0yOC6sNfBCKzAzbDy4uBuZ1voBbllNmEnYkTyo3ajqkDv1V3hGFFrIlyYaFjOLb\nPijarpj5vDUspL2PyzAvNXZWxWeJ1QRwRdaW09At4XbI8mQkfUGnOzq5wE2Zztu0\nDQcLreH7v9570QeHdsCLw3wLDm5R+qz366u1P9RdIBCg4vOXwPVeuQVLesJdcZgl\n2BNlq5VhUXuF34cZq9KTmoWV5kIP0yRbWsnyi8BOJQKBgQD3oBkIcvbBY52BE8HC\nkIfExv22511stX8eKa/9edV6za7VIptkJ5FwyCVcuebetI67NuiM65Vg3RP1XwJM\noamjAsmx2RfB+b2tTVY3QrLUiu3Hjn8VV3E2BV/lEgB+wNXwrWu/egUpw6kIJDGX\n47dvI3V4h/8vara7VeWYuaAOkwKBgQC/vaz7hpGZ9LALWVoNn59k2RjpoYyL9SKh\njAsGZ6ku6ggkrqC+7fy7ZCtrdR5Cd4cZzk7pmNuOO/DszTI8D5uL/h+aCCCeNHRk\n6VsDf8VfecndbD6rgI/EU8z2qIobMKwKwbXDZoeoo6w3igcqfGtYzFL79dwotEge\najjVr3xx+wKBgBMO615PGta/h/vLPXpwDUMD3bsaC4K2ZVY49yaXHesZsX8N7s/C\ni9sWTGnalP5G/0VBcJyH9TNDUKnt6gtj1d6J9GQPxVhUlFimPyB5rbHWD37wZK+L\nz1bNCxhiTk9zIAQqFMTj60nPmU7bGkYKbK/NFtlz/hv0JqQ8dDNQ9hSpAoGBAKio\n//CAfrMeOXzCLCSvtFXRYcihAjBagQv5U/leVcOeuWsK8PsB/L4ZbtgnPWbaHUzl\n3SQ+AWMr9tFV7kpGsFyEPOgRHiALpBbf7d82FTfWuWq8PKQ/gjcAP9r4hgNE3RDZ\nNDmdhtcgoex4zbThnMuPb6+SpQZpDscySKwuoRjhAoGAAmBmw1meYKPbPSUcb9s0\nk51V0f+dEKcW/zjR9RuYMxOhgEG0SOb07sOhxSoHWU+fL2tC8YQ13BcFo6cuol3R\nmoH+C7a7tUwx4K/6WGpv7uBTwv1nF5XGhA3rHI5HMrFHJTESYIEcLe1jzJg+fRG6\n4QxdvlA+4oPBBLNhlyBfD60=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cc-sentiment-language@snappy-bucksaw-349409.iam.gserviceaccount.com",
+  "client_id": "115343829738257335145",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cc-sentiment-language%40snappy-bucksaw-349409.iam.gserviceaccount.com"
+}
